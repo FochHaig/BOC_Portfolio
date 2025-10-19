@@ -9,7 +9,7 @@
 This repository contains selected automation and process improvement case studies completed prior to and during the founding of **Bang Ops Consulting (BOC)**.  
 Each project demonstrates real-world applications of intelligent automation, workflow optimization, and systems integration.
 
-These examples represent my hands-on experience as an **Automation Specialist**, integrating tools, building custom workflows, and designing scalable solutions that help businesses operate more efficiently.
+These examples represent my hands-on experience as an **Business Systems and Automation Specialist**, integrating tools, building custom workflows, and designing scalable solutions that help businesses operate more efficiently.
 
 ---
 
