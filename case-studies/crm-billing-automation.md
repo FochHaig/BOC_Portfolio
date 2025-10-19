@@ -22,4 +22,4 @@ Design a CRM-centric process that automatically triggers engagement letters, tra
 Zoho CRM, Zoho Books, Workflow Rules, Webhooks, Custom Functions, API Integrations
 
 ## 🧠 Takeaway
-Building process logic directly within the CRM ensures that automation aligns with real operational checkpoints — not just technical triggers.
+Building process logic directly within the CRM ensures that automation aligns with real operational checkpoints, not just technical triggers.
