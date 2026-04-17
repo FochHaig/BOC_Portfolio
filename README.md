@@ -1,15 +1,9 @@
-# Bang Ops Consulting (My Portfolio)
-**By Joshua Solon**
-
-> Streamlining business operations through automation, AI, and systems design.
-
 ---
 
 ## 🧭 Overview
-This repository contains selected automation and process improvement case studies completed prior to and during the founding of **Bang Ops Consulting (BOC)**.  
-Each project demonstrates real-world applications of intelligent automation, workflow optimization, and systems integration.
-
-These examples represent my hands-on experience as an **Business Systems and Automation Specialist**, integrating tools, building custom workflows, and designing scalable solutions that help businesses operate more efficiently.
+This repository contains case studies from automation and systems work 
+I've done across various client engagements. The actual deliverables are proprietary, so these write-ups focus on the problem, the approach, and 
+the outcome rather than client-specific
 
 ---
 
@@ -24,18 +18,6 @@ These examples represent my hands-on experience as an **Business Systems and Aut
 
 ---
 
-## 🧠 About Me
-Hi, I’m **Joshua Solon**, a Business Systems and Automation Specialist passionate about transforming manual processes into intelligent, scalable systems.  
-I specialize in:
-- Workflow automation and integration  
-- Process transformation and data optimization  
-- Low-code platform development (Zoho, Airtable, Power Automate, Make/Zapier)  
-- Conversational AI (Dialogflow CX, OpenAI)  
-
-I enjoy helping organizations find practical, sustainable ways to modernize how they work, whether through automation, analytics, or better process design.
-
----
-
 ## 🧰 Tech & Tools
 **Low-Code & Automation:** Zoho Suite, Airtable, Make, Zapier, Power Automate  
 **Analytics & Reporting:** Power BI, Power Query, Google Data Studio  
@@ -45,9 +27,8 @@ I enjoy helping organizations find practical, sustainable ways to modernize how 
 ---
 
 ## 🌐 Contact
-📧 Email: [your email here]  
-🔗 LinkedIn: [your LinkedIn link here]  
-🏢 Company: *Bang Ops Consulting (BOC)* (coming soon)
+📧 Email: joshuamicholeoslon@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/joshua-michole-solon-5b3908194
 
 ---
 
